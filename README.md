@@ -1,3 +1,3 @@
 # Datastructures
 This is repo where my dummy programs for learning data structures will be kept. Feel free to comment.
-Feel free to contribute or request for pull.
+You can always contribute for this repo or request for pull.
